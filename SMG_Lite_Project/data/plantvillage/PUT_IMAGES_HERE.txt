@@ -1,0 +1,1 @@
+Put the plantvillage images here: one sub-folder per class (or train/ val/ test/ sub-folders).

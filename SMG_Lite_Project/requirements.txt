@@ -1,0 +1,10 @@
+torch>=2.1
+torchvision>=0.16
+timm>=0.9          # Xception
+scikit-learn>=1.2  # splits + metrics
+python-docx>=1.0   # fills templates/result_word.docx
+matplotlib>=3.6
+pandas
+numpy
+pillow
+jupyter

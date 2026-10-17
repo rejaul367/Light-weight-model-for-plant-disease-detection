@@ -1,0 +1,1 @@
+Put the rice images here: one sub-folder per class (or train/ val/ test/ sub-folders).
